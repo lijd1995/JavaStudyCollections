@@ -11,17 +11,18 @@
   <a href="https://my.oschina.net/javaFamily"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
   <a href="https://www.cnblogs.com/ferryman/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
 </p>
+
 # 目录
 
-- [精通 Spring](../Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
-- [精通 Redis](../Redis 系列)
-- [精通算法与数据结构](../Algrithm)
-- [精通 Java ](../java) 涵盖：**Java 基础、多线程、JVM**
-- [精通消息队列](../MQ)
-- [精通 nginx](../Nginx)
-- [精通网络架构](../NetWork)
-- [精通 Tomcat ](../Tomcat)
-- [精通 Mysql ](../MySQL)
+- [精通 Spring](/Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
+- [精通 Redis](/Redis 系列)
+- [精通算法与数据结构](/Algrithm)
+- [精通 Java ](/java)  涵盖：**Java 基础、多线程、JVM**
+- [精通消息队列](/MQ)
+- [精通 nginx](/Nginx)
+- [精通网络架构](/NetWork)
+- [精通 Tomcat ](/Tomcat)
+- [精通 Mysql ](/MySQL)
 
 
 
