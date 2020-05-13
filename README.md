@@ -13,7 +13,7 @@
 </p>
 # 目录
 
-- [精通 Spring](../Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
+- [精通 Spring](/Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
 - [精通 Redis](../Redis 系列)
 - [精通算法与数据结构](../Algrithm)
 - [精通 Java ](../java) 涵盖：**Java 基础、多线程、JVM**
