@@ -15,7 +15,6 @@
 # 目录
 
 - [精通 Spring](/Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
-<<<<<<< HEAD
 - [精通 Redis](/Redis 系列)
 - [精通算法与数据结构](/Algrithm)
 - [精通 Java ](/java)  涵盖：**Java 基础、多线程、JVM**
@@ -24,17 +23,6 @@
 - [精通网络架构](/NetWork)
 - [精通 Tomcat ](/Tomcat)
 - [精通 Mysql ](/MySQL)
-=======
-- [精通 Redis](../Redis 系列)
-- [精通算法与数据结构](../Algrithm)
-- [精通 Java ](../java) 涵盖：**Java 基础、多线程、JVM**
-- [精通消息队列](../MQ)
-- [精通 nginx](../Nginx)
-- [精通网络架构](../NetWork)
-- [精通 Tomcat ](../Tomcat)
-- [精通 Mysql ](../MySQL)
->>>>>>> af60ff728e9bd378b7c9170a7e6c290e65672092
-
 
 
 # 祝福
