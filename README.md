@@ -14,10 +14,10 @@
 
 # 目录
 
-- [精通 Spring](/Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
+- [精通 Spring](/Spring) 涵盖：Spring、SpringBoot、SpringCloud
 - [精通 Redis](/Redis 系列)
 - [精通算法与数据结构](/Algrithm)
-- [精通 Java ](/java)  涵盖：**Java 基础、多线程、JVM**
+- [精通 Java ](/java)  涵盖：Java 基础、多线程、JVM
 - [精通消息队列](/MQ)
 - [精通 nginx](/Nginx)
 - [精通网络架构](/NetWork)
@@ -31,6 +31,5 @@
 
 如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。
 
-小李在工作中发现我身边的人真的就是实力越强的越努力，**最高级的自律，享受孤独**。
 
   <a name="微信"></a>  <a name="公众号"></a>
