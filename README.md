@@ -12,17 +12,24 @@
   <a href="https://www.cnblogs.com/ferryman/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
 </p>
 
+# 近期学习情况
+
+- 每日一道算法题-递归系列
+- 关于跨域的知识整理
+- Spring Cloud 框架的学习
+- Redis 的学习
+
 # 目录
 
-- [精通 Spring](/Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
-- [精通 Redis](/Redis 系列)
-- [精通算法与数据结构](/Algrithm)
-- [精通 Java ](/java)  涵盖：**Java 基础、多线程、JVM**
-- [精通消息队列](/MQ)
-- [精通 nginx](/Nginx)
-- [精通网络架构](/NetWork)
-- [精通 Tomcat ](/Tomcat)
-- [精通 Mysql ](/MySQL)
+- [Spring 系列](/Spring) 涵盖：**Spring、SpringBoot、SpringCloud**
+- [Redis 系列](/Redis)
+- [算法与数据结构 系列](/Algrithm)
+- [ Java 系列 ](/java)  涵盖：**Java 基础、多线程、JVM**
+- [消息队列系列](/MQ)
+- [ nginx 系列](/Nginx)
+- [网络架构系列](/NetWork)
+- [Tomcat 系列 ](/Tomcat)
+- [Mysql 系列](/MySQL)
 
 
 # 祝福
