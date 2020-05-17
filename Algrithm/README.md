@@ -18,6 +18,10 @@
 
 所以刷遍数非常重要，可以刷五遍，但又不局限于五遍。所以我每刷一道题会有记录，并且把优秀的题解记录下来。
 
+[leetCode 中文版](https://leetcode-cn.com/problemset/all/)
+
+[leetCode 国际版](https://leetcode.com/problemset/all/)
+
 # 目录（擅用搜索 Ctrl+F）
 
 - [题解汇总](https://shimo.im/docs/tvh3TtXD96GpcHgr/ )
@@ -31,7 +35,7 @@
 
 | 题号 | 难度 | 题目 | 知识点 | 遍数 | 熟练度 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 22 | **中等** | [括号生成](./递归/generateParenthesis) | 递归 | 0 | 不熟练 |
+| 22 | **中等** | [括号生成](./递归/generateParenthesis) | 递归 | 3 | 熟练 |
 | 46   | **中等**          | [全排列](/递归/permute)                            | 递归     | 0    | 不熟练 |
 | 47   | **中等**          | [全排列②](/递归/permuteUnique)                     | 递归     | 0    | 不熟练 |
 | 70   | 简单              | [两数之和](/递归/climbStairs)                      | 递归     | 0    | 不熟练 |
