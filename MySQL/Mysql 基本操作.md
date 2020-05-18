@@ -1,0 +1,1 @@
+- select LEFT(UPPER(REPLACE(UUID(),'-','')),8); 查询左边 8 位
