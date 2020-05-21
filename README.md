@@ -12,7 +12,7 @@
   <a href="https://www.cnblogs.com/ferryman/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="博客园"></a>
 </p>
 
-# 近期学习情况
+# 五月学习情况
 
 - 每日一道算法题-递归系列
 - 关于跨域的知识整理
@@ -31,6 +31,7 @@
 - [Tomcat 系列 ](/Tomcat)
 - [Mysql 系列](/MySQL)
 - [Git 系列](/Git)
+- [Web 系列](/Web)
 
 # 祝福
 
