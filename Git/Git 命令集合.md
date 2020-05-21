@@ -8,6 +8,8 @@
 
 从另一个存储库或本地分支获取并与其集成
 
+- git -c core.quotepath=false -c log.showSignature=false pull --progress --no-stat -v --progress origin master
+
 ## git push
 
 更新远程引用与之关联的对象
@@ -37,3 +39,4 @@
 ## git merge
 
 将两个或者多个开发历史连接在一起
+
