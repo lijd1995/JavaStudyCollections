@@ -1,6 +1,6 @@
 > 本文章已收录到 [Github](https://github.com/lijd1995/JavaStudyCollections/tree/master/Algrithm)
 
-题目链接：[LeetCode 47.全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
+题目链接：[LeetCode 77.组合](https://leetcode-cn.com/problems/combinations/)
 
 ## 解题思路
 - 全排列Ⅱ是上一题的加强版，在全排列不包含重复数字，这题的难度就是在包含重复数字。所以这道题关键点在于如何去重。
