@@ -1,4 +1,4 @@
-package isValidBST;
+package maxDepth;
 
 /**
  * @program: 递归
@@ -8,7 +8,7 @@ package isValidBST;
  */
 public class TreeNode {
      int val;
-     public TreeNode left;
-     public TreeNode right;
+     TreeNode left;
+     TreeNode right;
      TreeNode(int x) { val = x; }
 }

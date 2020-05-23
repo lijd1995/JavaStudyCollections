@@ -1,18 +1,14 @@
 package combine;
 
-<<<<<<< HEAD
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @program: 递归
  * @description:
  * @author: ljd
  * @create: 2020-05-21 20:43
  */
-public class Combine {
-
-=======
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
 
 public class Combine {
 
@@ -41,5 +37,4 @@ public class Combine {
     public static void main(String[] args) {
         combine(4,2);
     }
->>>>>>> 76492701675b993115510f3fb62a78edf84adbf4
 }
