@@ -11,5 +11,3 @@ Redis 是热门的非关系型数据库，在如今的各种项目中都会用�
 - 数据库、缓存不一致问题
 - 事务
 
-https://github.com/doocs/advanced-java
-
